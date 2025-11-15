@@ -1,5 +1,5 @@
 # EV-Sales-Operations-Analysis
-
+![Project Banner](Dashboarding.png)
 
 Performed an end-to-end analysis of the ElectricPe sales and operations funnel.
 
