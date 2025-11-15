@@ -1,3 +1,6 @@
+# EV-Sales-Operations-Analysis
+
+
 Performed an end-to-end analysis of the ElectricPe sales and operations funnel.
 
 1.  **Data Analysis:** Started by cleaning the raw data, then used Excel Pivot Tables to calculate key performance indicators (KPIs) for each store. This included:
